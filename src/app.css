@@ -1,0 +1,10 @@
+.card {
+    width: 40%;
+    margin: 0 auto;
+    padding: 10 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+button{
+    margin: 15px;
+}
